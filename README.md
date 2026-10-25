@@ -2,7 +2,7 @@
 
 A servo-driven mechanism that retrieves envelopes from a high shelf, so nothing has to be reached for by hand. A geared arm collects an envelope in a gripper, lowers it to an accessible position, releases it, and returns for the next one. It is controlled with a single rotary encoder and runs on an Arduino Nano.
 
-**Demo video:** [add link here, or write "Video X in my MIT SlideRoom portfolio"]
+**Demo video: located in docs/envelopeDemo.MOV
 
 ![Envelope delivery system](docs/envelope.jpg)
 

@@ -86,7 +86,6 @@ The wiring schematic is in `docs/schematic.jpg`.
 ```
 envelope_delivery.ino   Arduino firmware
 docs/                   Photos, schematic, CAD drawings
-cad/                    STL and CAD files for the printed parts
 ```
 
 

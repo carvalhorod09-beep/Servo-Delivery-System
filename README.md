@@ -2,7 +2,7 @@
 
 A servo-driven mechanism that retrieves envelopes from a high shelf, so nothing has to be reached for by hand. A geared arm collects an envelope in a gripper, lowers it to an accessible position, releases it, and returns for the next one. It is controlled with a single rotary encoder and runs on an Arduino Nano.
 
-**Demo video: located in docs/envelopeDemo.MOV
+**Demo video:** [Watch the demo](docs/envelopeDemo.MOV)
 
 ![Envelope delivery system](docs/envelope.jpg)
 
@@ -37,10 +37,10 @@ A double click is two presses within 400 ms.
 ## Hardware
 
 - Arduino Nano
-- 2× hobby servos [add model]
+- 2× hobby servos
 - Rotary encoder with push button
 - 3D-printed gripper, gear mechanism and housings (PLA), from my own CAD designs
-- Screws and standoffs to mount it to the shelf
+- Screws to mount it to the shelf
 
 The wiring schematic is in `docs/schematic.jpg`.
 
